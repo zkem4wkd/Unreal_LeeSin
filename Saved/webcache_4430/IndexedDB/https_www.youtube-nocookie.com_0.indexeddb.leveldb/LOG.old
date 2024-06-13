@@ -1,0 +1,8 @@
+2024/06/05-16:31:15.867 11c4 Reusing MANIFEST F:/Epic Games/Test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/05-16:31:15.868 11c4 Recovering log #4
+2024/06/05-16:31:15.868 11c4 Reusing old log F:/Epic Games/Test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/06/05-16:32:11.499 237c Level-0 table #8: started
+2024/06/05-16:32:11.500 237c Level-0 table #8: 0 bytes OK
+2024/06/05-16:32:11.501 237c Delete type=0 #4
+2024/06/05-16:32:11.502 237c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/05-16:32:11.502 237c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
